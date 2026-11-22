@@ -1,0 +1,6 @@
+{
+  "name": "MODAPRADA",
+  "description": "MODAPRADA — Modern sokak modasının yeni adresi. Lüks Türk streetwear e-ticaret mağazası ve yönetim paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
